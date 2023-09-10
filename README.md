@@ -87,4 +87,4 @@ Thank you for contributing!
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use and modify the content for your own learning and projects.
+This repository is licensed under the [Apache License](LICENSE). Feel free to use and modify the content for your own learning and projects.
